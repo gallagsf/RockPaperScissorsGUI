@@ -1,5 +1,5 @@
 public class RockPaperScissorsRunner {
     public static void main(String[] args) {
-        RockPaperScissorsFrame frame = new RockPaperScissorsFrame("Rock Paper Scissors");
+        RockPaperScissorsFrame frame = new RockPaperScissorsFrame();
     }
 }
