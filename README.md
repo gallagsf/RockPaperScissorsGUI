@@ -1,22 +1,23 @@
 # Assignment 5 - Rock Paper Scissors
 ## Assignment Self Assessment:
 #### Reflection
-[//]: <> (share your thoughts on the assignment, things you learnt and would like to remember when you look back at this assignment)
+I found this assignment to be very easy. I took the code from the fortune teller assignment and changed it to suit the needs of a rock paper scissors game instead. The part that took the longest was making the computer logic.
 
 
 #### Self Assessment
-- [ ] The program runs with no errors.
-- [ ] Create the GUI form.
-- [ ] Logic is sound.
-- [ ] Proper usage of Git and GitHub (frequent commits, explanatory commit messages)
+- [x] The program runs with no errors.
+- [x] Create the GUI form.
+- [x] Logic is sound.
+- [x] Proper usage of Git and GitHub (frequent commits, explanatory commit messages)
 - [ ] 3 Extra Credit
 - [ ] 4 Extra Credit
 
-**Your Grade:**  /20
+**Your Grade:**  19/20
 
 **Notes:**
 
 **How long did it take you to complete this assigment?**
+This assignment only took me about an hour to finish. However I might continue to work on it to implement the extra credit sections at another time before it gets graded.
 
 ______________________________________________________________________
 
